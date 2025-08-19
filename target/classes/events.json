@@ -1,0 +1,4 @@
+{"eventType":"OrderCreated","eventId":"e1","timestamp":"2025-08-19T10:00:00Z","orderId":"123","customerId":"cust1","items":[{"itemId":"i1","name":"Laptop","quantity":1,"price":1000.0}],"totalAmount":1000.0}
+{"eventType":"PaymentReceived","eventId":"e2","timestamp":"2025-08-19T10:05:00Z","orderId":"123","amount":1000.0}
+{"eventType":"ShippingScheduled","eventId":"e3","timestamp":"2025-08-19T10:10:00Z","orderId":"123","address":"123 Main St"}
+{"eventType":"OrderCancelled","eventId":"e4","timestamp":"2025-08-19T10:15:00Z","orderId":"124","reason":"Customer requested cancellation"}

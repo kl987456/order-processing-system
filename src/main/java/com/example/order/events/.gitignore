@@ -1,0 +1,11 @@
+# Maven target directory
+/target/
+
+# IDE configs
+.idea/
+*.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
